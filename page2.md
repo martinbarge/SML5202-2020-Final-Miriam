@@ -1,2 +1,2 @@
-<h1>Page 2</h1>
+<h1>Conversation</h1>
 <p>Some content</p>
