@@ -10,7 +10,7 @@ lang: en
 # --- And, only change the names of the HTML files e.g. page2.html --- #
 github:
   page1: Home.html
-  page2: Conversation.html
-  page3: Verbs.html
-  page4: Vocabulary.html
-  page5: Activities.html
+  Conversation: Conversation.html
+  Verbs: Verbs.html
+  Vocabulary: Vocabulary.html
+  Activities: Activities.html
